@@ -1,6 +1,6 @@
 # CVChameleon: The Job-Hunting Chameleon
 
-**Color-changing CV:** The chameleon-inspired CV adapts its color scheme to match the specific job role, adding a personalized touch to each application.## Features
+**Color-changing CV:** The chameleon-inspired CV adapts its color scheme to match the specific job role, adding a personalized touch to each application.
 
 ### Cover Letter
 
